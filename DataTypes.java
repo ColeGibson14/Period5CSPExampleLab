@@ -12,7 +12,7 @@ public class DataTypes {
         boolean LikeCats = true;
         int n1 = 6;
         int n2 = 5;
-        System.out.println("Nathaniel's Favorite Integer is:" + nathanielFavInt + "and the class snicker was" + snicker);
+        System.out.println(" Nathaniel's Favorite Integer is: " + nathanielFavInt + " and the class snicker was " + snicker);
         System.out.println(n1 + n2 / n1);
 
 
